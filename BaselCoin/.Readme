@@ -1,1 +1,3 @@
 
+BaselCoin actually is a token built on top of ethereum blockchain and is following the ERC20 standarts, it uses the openzeppeling library to implement some ERC20 features.
+it is enhanced with a faucet smart contract
